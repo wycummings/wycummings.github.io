@@ -1,7 +1,9 @@
 ### Education
 University of California, Davis, June 2021  
+Department of Biological Science  
 Bachelor of Science  
 Major: **Genetics and Genomics**  
+Minor: **Japanese**  
 
 International Community School of Addis Ababa, June 2017  
 **IB Diploma**
@@ -17,4 +19,3 @@ PASCO Corporation, AI Solutions Division Paid Intern,(Tokyo, Japan) July 2019 ~ 
 ### Skills
 * Fluent in Japanese and English
 * Python, PyTorch, Pandas, Numpy, MatPlot
-
