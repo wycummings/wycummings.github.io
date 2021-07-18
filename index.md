@@ -6,7 +6,7 @@ Major: **Genetics and Genomics**
 Minor: **Japanese**  
 
 International Community School of Addis Ababa, June 2017  
-**IB Diploma**
+IB Diploma
 
 ### Work Experience
 PASCO Corporation, AI Solutions Division Paid Intern,(Tokyo, Japan) July 2019 ~ September 2019
@@ -17,5 +17,5 @@ PASCO Corporation, AI Solutions Division Paid Intern,(Tokyo, Japan) July 2019 ~ 
 * [Nested ResUNet](https://github.com/wycummings/Building_Detection)
 
 ### Skills
-* Fluent in Japanese and English
+* Native in Japanese and English
 * Python, PyTorch, Pandas, Numpy, MatPlot
